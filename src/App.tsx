@@ -200,7 +200,7 @@ const Main: React.FC = () => (
 
 const Footer: React.FC = () => (
   <footer className="Footer">
-    <Typography variant="overline">© 2018—2020</Typography>
+    <Typography variant="overline">© 2018—2020, 2024</Typography>
     <Typography variant="overline">
       Feito com <FavoriteIcon className="FavoriteIcon" /> por Fernando Machado
     </Typography>

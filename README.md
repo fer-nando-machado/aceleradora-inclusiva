@@ -2,7 +2,10 @@
 
 ![Aceleradora Inclusiva](/public/inclusiva-logo.png "Aceleradora Inclusiva")
 
-Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**. Imagens: [pexels.com](https://www.pexels.com/)
+Showcase de projetos web produzidos pelas turmas da **Aceleradora Inclusiva**.
+
+- Legado: [aceleradora-inclusiva-showcase-web](https://github.com/fer-nando-machado/aceleradora-inclusiva-showcase-web)
+- Imagens: [pexels.com](https://www.pexels.com/)
 
 ## Arquitetura
 
@@ -16,7 +19,7 @@ Este diretório contém os arquivos estáticos que serão acessados pela aplica�
 
 O arquivo `pages.json` deve refletir a estrutura de pastas contida em `public/pages`, além de dados como título, descrição e imagem de exibição de cada projeto.
 
-## Commands
+## Comandos
 
 In the project directory, you can run:
 
