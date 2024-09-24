@@ -1,0 +1,768 @@
+[
+  {
+    "name": "Turma 01",
+    "path": "t01",
+    "projects": [
+      {
+        "name": "Quem Sou Eu",
+        "path": "quem-sou-eu",
+        "description": "Conheça as páginas de perfil construídas por nossas estudantes",
+        "picture": "./lapis.jpg",
+        "pages": [
+          {
+            "name": "Cássia",
+            "path": "cassia"
+          },
+          {
+            "name": "Fernanda",
+            "path": "fernanda"
+          },
+          {
+            "name": "Ingrid",
+            "path": "ingrid"
+          },
+          {
+            "name": "Karolay",
+            "path": "karolay"
+          },
+          {
+            "name": "Matheus",
+            "path": "matheus"
+          },
+          {
+            "name": "Nicoly",
+            "path": "nicoly"
+          },
+          {
+            "name": "Pamela",
+            "path": "pamela"
+          },
+          {
+            "name": "Penelope",
+            "path": "penelope"
+          },
+          {
+            "name": "Victoria",
+            "path": "victoria"
+          }
+        ]
+      },
+      {
+        "name": "Entre na Aceleradora",
+        "path": "bem-vindos",
+        "description": "Saiba mais sobre o projeto em cinco páginas idealizadas pela turma",
+        "picture": "./shapes.jpg",
+        "pages": [
+          {
+            "name": "Apresentação",
+            "path": "apresentacao"
+          },
+          {
+            "name": "Curso",
+            "path": "curso"
+          },
+          {
+            "name": "Eventos",
+            "path": "eventos"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          },
+          {
+            "name": "Créditos",
+            "path": "creditos"
+          }
+        ]
+      },
+      {
+        "name": "Fale Conosco",
+        "path": "fale-conosco",
+        "description": "Entre em contato conosco através de formulários construídos com Javascript",
+        "picture": "./coracao.jpg",
+        "pages": [
+          {
+            "name": "Cássia + Ingrid + Matheus",
+            "path": "g1"
+          },
+          {
+            "name": "Fernanda + Romario",
+            "path": "g2"
+          },
+          {
+            "name": "Gabriel + Karolay + Penelope",
+            "path": "g3"
+          },
+          {
+            "name": "Nicoly + Pamela + Victoria",
+            "path": "g4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turma 02",
+    "path": "t02",
+    "projects": [
+      {
+        "name": "Quem Sou Eu",
+        "path": "quem-sou-eu",
+        "description": "Conheça as páginas de perfil construídas por nossas estudantes",
+        "picture": "./letras.jpg",
+        "pages": [
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Alice",
+            "path": "alice"
+          },
+          {
+            "name": "Alisson",
+            "path": "alisson"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Gabriela",
+            "path": "gabriela"
+          },
+          {
+            "name": "Igor",
+            "path": "igor"
+          },
+          {
+            "name": "Lorhanna",
+            "path": "lorhanna"
+          },
+          {
+            "name": "Maria Eduarda",
+            "path": "duda"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Nicoly",
+            "path": "nicoly"
+          },
+          {
+            "name": "Shaienne",
+            "path": "shaienne"
+          },
+          {
+            "name": "Thayra",
+            "path": "thayra"
+          }
+        ]
+      },
+      {
+        "name": "Acelerando Juntas",
+        "path": "acelerando-juntas",
+        "description": "Aprenda sobre justiça econômica e social em páginas criadas pela turma",
+        "picture": "./giz.jpg",
+        "pages": [
+          {
+            "name": "Bullying",
+            "path": "bullying"
+          },
+          {
+            "name": "Cyber Bullying",
+            "path": "cyberbullying"
+          },
+          {
+            "name": "Cotas Raciais",
+            "path": "cotas"
+          },
+          {
+            "name": "Racismo",
+            "path": "racismo"
+          },
+          {
+            "name": "Hip Hop",
+            "path": "hiphop"
+          },
+          {
+            "name": "Gabaritando",
+            "path": "gabaritando"
+          },
+          {
+            "name": "LGBT",
+            "path": "lgbt"
+          }
+        ]
+      },
+      {
+        "name": "Entre na Aceleradora",
+        "path": "bem-vindos",
+        "description": "Saiba mais sobre o projeto em sete páginas idealizadas pela classe",
+        "picture": "./maos.jpg",
+        "pages": [
+          {
+            "name": "Apresentação",
+            "path": "apresentacao"
+          },
+          {
+            "name": "Conteúdo",
+            "path": "conteudo"
+          },
+          {
+            "name": "Temas Sociais",
+            "path": "p3"
+          },
+          {
+            "name": "Como Fazer Parte",
+            "path": "selecao"
+          },
+          {
+            "name": "Turma",
+            "path": "turma"
+          },
+          {
+            "name": "Professores",
+            "path": "professores"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turma 03",
+    "path": "t03",
+    "projects": [
+      {
+        "name": "Quem Sou Eu",
+        "path": "quem-sou-eu",
+        "description": "Conheça as páginas de perfil construídas por nossas estudantes",
+        "picture": "./candy.jpg",
+        "pages": [
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Arlanda",
+            "path": "arlanda"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Meylin",
+            "path": "meylin"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          },
+          {
+            "name": "Rayana",
+            "path": "rayana"
+          }
+        ]
+      },
+      {
+        "name": "Questionário",
+        "path": "questionario",
+        "description": "Responda às perguntas dos estudantes em formulários construídos com HTML",
+        "picture": "./caderno.jpg",
+        "pages": [
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          }
+        ]
+      },
+      {
+        "name": "E-Zine Social",
+        "path": "e-zine",
+        "description": "Aprenda sobre assuntos sociais e curiosidades em páginas criadas pela turma",
+        "picture": "./folhas.jpg",
+        "pages": [
+          {
+            "name": "Aborto",
+            "path": "aborto"
+          },
+          {
+            "name": "Deep Web",
+            "path": "deep-web"
+          },
+          {
+            "name": "Direitos do Adolescente",
+            "path": "direitos-do-adolescente"
+          },
+          {
+            "name": "Drogas",
+            "path": "drogas"
+          },
+          {
+            "name": "Hype",
+            "path": "hype"
+          },
+          {
+            "name": "Intolerância Religiosa",
+            "path": "intolerancia-religiosa"
+          },
+          {
+            "name": "Júpiter",
+            "path": "jupiter"
+          },
+          {
+            "name": "LGBT",
+            "path": "lgbt"
+          },
+          {
+            "name": "Parada LGBT e Homofobia",
+            "path": "lgbt-parada-homofobia"
+          }
+        ]
+      },
+      {
+        "name": "Calculadora",
+        "path": "calculadora",
+        "description": "Faça suas contas usando as calculadoras construídas com Javascript",
+        "picture": "./abacus.jpg",
+        "pages": [
+          {
+            "name": "Adrio",
+            "path": "adrio"
+          },
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Brayan",
+            "path": "brayan"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Gabriel",
+            "path": "gabriel"
+          },
+          {
+            "name": "Guilherme",
+            "path": "guilherme"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "João Vitor",
+            "path": "joao-vitor"
+          },
+          {
+            "name": "Nathalia",
+            "path": "nathalia"
+          },
+          {
+            "name": "Rafael",
+            "path": "rafael"
+          },
+          {
+            "name": "Rayana",
+            "path": "rayana"
+          }
+        ]
+      },
+      {
+        "name": "Entre na Aceleradora",
+        "path": "bem-vindos",
+        "description": "Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
+        "picture": "./enter.jpg",
+        "pages": [
+          {
+            "name": "Introdução",
+            "path": "introducao"
+          },
+          {
+            "name": "Conteúdo Técnico",
+            "path": "aulas-tecnicas"
+          },
+          {
+            "name": "Temas Sociais",
+            "path": "aulas-especiais"
+          },
+          {
+            "name": "Quem fez parte",
+            "path": "turma"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos"
+          },
+          {
+            "name": "Contato",
+            "path": "contato"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turma 04",
+    "path": "t04",
+    "projects": [
+      {
+        "name": "Quem Sou Eu",
+        "path": "quem-sou-eu",
+        "description": "Conheça as páginas de perfil construídas por nossas estudantes",
+        "picture": "./tenis.jpg",
+        "pages": [
+          {
+            "name": "Ashley (1)",
+            "path": "ashley"
+          },
+          {
+            "name": "Ashley (2)",
+            "path": "ashley-2"
+          },
+          {
+            "name": "Danielle",
+            "path": "danielle"
+          },
+          {
+            "name": "Dhienifer (1)",
+            "path": "dhienifer"
+          },
+          {
+            "name": "Dhienifer (2)",
+            "path": "dhienifer-2"
+          },
+          {
+            "name": "Dhienifer (3)",
+            "path": "dhienifer-3"
+          },
+          {
+            "name": "Ester (1)",
+            "path": "ester"
+          },
+          {
+            "name": "Ester (2)",
+            "path": "ester-2"
+          },
+          {
+            "name": "Ester (3)",
+            "path": "ester-3"
+          },
+          {
+            "name": "Ester (4)",
+            "path": "ester-4"
+          },
+          {
+            "name": "Éven (1)",
+            "path": "even"
+          },
+          {
+            "name": "Éven (2)",
+            "path": "even-2"
+          },
+          {
+            "name": "Éven (3)",
+            "path": "even-3"
+          },
+          {
+            "name": "Gustavo B. (1)",
+            "path": "gustavo-brandao"
+          },
+          {
+            "name": "Gustavo B. (2)",
+            "path": "gustavo-brandao-2"
+          },
+          {
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "Jadine",
+            "path": "jadine"
+          },
+          {
+            "name": "Jhuan",
+            "path": "jhuan"
+          },
+          {
+            "name": "Paola (1)",
+            "path": "paola"
+          },
+          {
+            "name": "Paola (2)",
+            "path": "paola-2"
+          },
+          {
+            "name": "vinnicius",
+            "path": "vinnicius"
+          }
+        ]
+      },
+      {
+        "name": "Questionário",
+        "path": "questionario",
+        "description": "Responda às perguntas dos estudantes em formulários construídos com HTML",
+        "picture": "./diario.jpg",
+        "pages": [
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Danielle",
+            "path": "danielle"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Éven",
+            "path": "even"
+          },
+          {
+            "name": "Gustavo B.",
+            "path": "gustavo-brandao"
+          },
+          {
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "Jadine",
+            "path": "jadine"
+          },
+          {
+            "name": "Jhuan",
+            "path": "jhuan"
+          },
+          {
+            "name": "vinnicius",
+            "path": "vinnicius"
+          },
+          {
+            "name": "Signos (1)",
+            "path": "ashley-jadine-signos"
+          },
+          {
+            "name": "Signos (2)",
+            "path": "danielle-dhienifer-signos"
+          }
+        ]
+      },
+      {
+        "name": "E-Zine Social",
+        "path": "e-zine",
+        "description": "Aprenda sobre assuntos sociais e curiosidades em páginas criadas pela turma",
+        "picture": "./girassol.jpg",
+        "pages": [
+          {
+            "name": "Aborto",
+            "path": "aborto"
+          },
+          {
+            "name": "Assédio (1)",
+            "path": "assedio"
+          },
+          {
+            "name": "Assédio (2)",
+            "path": "assedio-2"
+          },
+          {
+            "name": "Defesa dos Animais",
+            "path": "pets"
+          },
+          {
+            "name": "LGBTQIAP+",
+            "path": "lgbtqiap"
+          },
+          {
+            "name": "Machismo",
+            "path": "machismo"
+          },
+          {
+            "name": "Síndrome do Impostor",
+            "path": "impostor"
+          },
+          {
+            "name": "Tráfico de Drogas",
+            "path": "drogas"
+          }
+        ]
+      },
+      {
+        "name": "Calculadora",
+        "path": "calculadora",
+        "description": "Faça suas contas usando as calculadoras construídas com Javascript",
+        "picture": "./numeros.jpg",
+        "pages": [
+          {
+            "name": "Ashley",
+            "path": "ashley"
+          },
+          {
+            "name": "Danielle",
+            "path": "danielle"
+          },
+          {
+            "name": "Dhienifer",
+            "path": "dhienifer"
+          },
+          {
+            "name": "Ester",
+            "path": "ester"
+          },
+          {
+            "name": "Éven",
+            "path": "even"
+          },
+          {
+            "name": "Gustavo B.",
+            "path": "gustavo-brandao"
+          },
+          {
+            "name": "Gustavo L.",
+            "path": "gustavo-lopes"
+          },
+          {
+            "name": "Isadora",
+            "path": "isadora"
+          },
+          {
+            "name": "Jadine",
+            "path": "jadine"
+          },
+          {
+            "name": "Jhuan",
+            "path": "jhuan"
+          },
+          {
+            "name": "vinnicius",
+            "path": "vinnicius"
+          }
+        ]
+      },
+      {
+        "name": "Entre na Aceleradora",
+        "path": "bem-vindos",
+        "description": "Saiba mais sobre o projeto em seis páginas idealizadas pela própria turma",
+        "picture": "./teclado.jpg",
+        "pages": [
+          {
+            "name": "Apresentação",
+            "path": "apresentacao-danielle-jadine-paola"
+          },
+          {
+            "name": "Temas Sociais e Técnicos",
+            "path": "temas-even-gustavo"
+          },
+          {
+            "name": "Inscrições",
+            "path": "inscricao-dhienifer-gustavo-jhuan"
+          },
+          {
+            "name": "Quem somos",
+            "path": "quem-somos-ashley-vinnicius"
+          },
+          {
+            "name": "Depoimentos",
+            "path": "depoimentos-ester-isadora"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turma 06 🎕 BIA",
+    "path": "t06",
+    "projects": [
+      {
+        "name": "Entre na Aceleradora",
+        "path": "bem-vindos",
+        "description": "Saiba mais sobre o projeto através do site feito de maneira conjunta e colaborativa entre as pessoas alunas da turma 6",
+        "picture": "./akatsuki.jpg",
+        "pages": [
+          {
+            "name": "bem-vindos",
+            "path": "apresentacao"
+          }
+        ]
+      }
+    ]
+  }
+]
