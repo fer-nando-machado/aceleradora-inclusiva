@@ -19,10 +19,8 @@
 }
 
 .Header .Logo {
-  margin-top: 10px;
-  height: 20vw;
-  min-height: 180px;
-  max-height: 360px;
+  margin-top: 12px;
+  height: clamp(150px, 20vw, 360px);
 }
 
 .Main,
@@ -35,7 +33,7 @@
 }
 
 .Header p {
-  padding: 8px 0;
+  padding: 12px;
   text-align: justify;
   font-style: italic;
 }
@@ -77,6 +75,13 @@
   color: #ef5ba1;
 }
 
+@media (max-width: 500px) {
+  .Header .Download {
+    left: calc(50% - 60px);
+    top: 12px;
+  }
+}
+
 .Footer {
   position: fixed;
   bottom: 0;
@@ -87,6 +92,7 @@
   background: #26bdcf;
   color: white;
   z-index: -1;
+  white-space: nowrap;
 }
 
 .Footer a {
