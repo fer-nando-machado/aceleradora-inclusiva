@@ -1,9 +1,6 @@
 import React from "react";
-import "./App.css";
-import json from "./pages.json"; // Ensure `pages.json` is correctly typed
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
-
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
@@ -17,8 +14,9 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import Link from "@mui/material/Link";
+import json from "./pages.json";
+import "./App.css";
 
-// Define the types for the JSON structure
 interface Page {
   name: string;
   path: string;
@@ -39,6 +37,27 @@ interface Group {
   hidden?: boolean;
 }
 
+interface GroupPanelProps {
+  name: string;
+  path: string;
+  projects: Project[];
+}
+
+interface ProjectCardProps {
+  name: string;
+  currentPath: string;
+  path: string;
+  description: string;
+  picture: string;
+  pages: Page[];
+}
+
+interface ProjectLinkProps {
+  name: string;
+  currentPath: string;
+  path: string;
+}
+
 const theme = createTheme({
   typography: {
     fontFamily: [
@@ -57,12 +76,6 @@ const theme = createTheme({
   },
 });
 
-interface GroupPanelProps {
-  name: string;
-  path: string;
-  projects: Project[];
-}
-
 const GroupPanel: React.FC<GroupPanelProps> = ({ name, path, projects }) => (
   <Accordion className="GroupPanel">
     <AccordionSummary
@@ -70,9 +83,7 @@ const GroupPanel: React.FC<GroupPanelProps> = ({ name, path, projects }) => (
       aria-controls={`panel-${name}-content`}
       id={`panel-${name}-header`}
     >
-      <Typography variant="h5" className="Title">
-        {name}
-      </Typography>
+      <Typography className="Title">{name}</Typography>
     </AccordionSummary>
     <AccordionDetails className="GroupPanelDetails">
       {projects.map((project, index) => (
@@ -81,15 +92,6 @@ const GroupPanel: React.FC<GroupPanelProps> = ({ name, path, projects }) => (
     </AccordionDetails>
   </Accordion>
 );
-
-interface ProjectCardProps {
-  name: string;
-  currentPath: string;
-  path: string;
-  description: string;
-  picture: string;
-  pages: Page[];
-}
 
 const ProjectCard: React.FC<ProjectCardProps> = ({
   name,
@@ -125,12 +127,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
   </Card>
 );
 
-interface ProjectLinkProps {
-  name: string;
-  currentPath: string;
-  path: string;
-}
-
 const ProjectLink: React.FC<ProjectLinkProps> = ({
   name,
   currentPath,
@@ -152,7 +148,10 @@ const Header: React.FC = () => (
       A <b>Aceleradora Inclusiva</b> é um projeto de educação inclusiva fruto de
       uma parceria entre a{" "}
       <b>
-        <Link href="http://www.thoughtworks.com/pt" target="_blank">
+        <Link
+          href="https://www.thoughtworks.com/pt-br/about-us/diversity-and-inclusion/aceleradora"
+          target="_blank"
+        >
           ThoughtWorks
         </Link>
       </b>
